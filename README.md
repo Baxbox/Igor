@@ -1,5 +1,5 @@
 # Igor
-Python Robotics Library for RaspberryPI 4*
+Python Robotics Library for RaspberryPI
 
 Igor is a library of various methods to animate LEDs, actuators, motors, solenoids 
 in a way that might be used in robotics and express natural looking "Styles" to these
